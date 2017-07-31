@@ -9,6 +9,7 @@
 *     CRAP     *
 ***************/
 #include <stdio.h>
+#include <rsa.c>
 // #include <stdlib.h>
 // #include <string.h>
 // #include <ctype.h>
@@ -33,6 +34,9 @@
 /************
 * FUNCTIONS *
 ************/
+// Function prototypes
+void keygen();
+void encrypt();
 
 int main( /*int argc, char *argv[]*/ ) {
   // code code code

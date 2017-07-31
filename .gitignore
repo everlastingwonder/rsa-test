@@ -1,6 +1,7 @@
-# Ignore executables and partially compiled files
+# Ignore executables, compiled files, and makefile
 *.out
 *.o
+Makefile
 
 # Ignore list of prime numbers
 primes.txt
