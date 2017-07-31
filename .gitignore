@@ -1,0 +1,6 @@
+# Ignore executables and partially compiled files
+*.out
+*.o
+
+# Ignore file with list of prime numbers
+primes.txt
