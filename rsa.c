@@ -33,13 +33,7 @@
 /************
 * FUNCTIONS *
 ************/
-// void foo(int);
 
 int main( /*int argc, char *argv[]*/ ) {
   // code code code
 }
-
-// void foo(int bar) {
-  // code code
-  // code code code code
-// }
