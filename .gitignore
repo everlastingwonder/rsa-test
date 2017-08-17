@@ -1,7 +1,12 @@
-# Ignore executables, compiled files, and makefile
-*.out
-*.o
-Makefile
+# Executables & other compiled files
+bin/**
+rsa
 
-# Ignore list of prime numbers
-primes.txt
+# Text files (I only use .txt files to temporarily
+# lay out information while working; anything that
+# is actually relevant to the project will be in a
+# different format)
+*.txt
+
+# Those stupid .DS_Store files
+.DS_Store
